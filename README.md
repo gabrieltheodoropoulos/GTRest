@@ -1,6 +1,11 @@
 # GTRest
 A lightweight Swift library for making web requests and consuming RESTful APIs!
 
+![Platform](https://img.shields.io/cocoapods/p/GTRest.svg)
+![Language](https://img.shields.io/github/languages/top/gabrieltheodoropoulos/GTRest.svg?color=orange)
+![License](https://img.shields.io/github/license/gabrieltheodoropoulos/GTRest.svg)
+![Version](https://img.shields.io/cocoapods/v/GTRest.svg)
+
 ## Adding GTRest to your project
 
 ### Using CocoaPods

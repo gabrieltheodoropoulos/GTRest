@@ -8,7 +8,7 @@ A lightweight Swift library for making web requests and consuming RESTful APIs!
 In your Podfile add:
 
 ```ruby
-pod `GTRest`
+pod 'GTRest'
 ```
 
 Don't forget to import GTRest anywhere you want to use it in your project:
